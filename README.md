@@ -1,7 +1,7 @@
 # JCryptoV2
 
-## Second version of original [JCrypto](https://github.com/DavidAraujo98/JCrypto) tool
-- Visit for more information
+## Second version of original [JCrypto](https://github.com/DavidAraujo98/JCryptoV1) tool
+[Visit](https://github.com/DavidAraujo98/JCryptoV1) for more information
 
 ### Updates include
 1. Fresh UI
